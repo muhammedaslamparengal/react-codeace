@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-codeace/static/css/main.b673aa94.css",
+    "main.js": "/react-codeace/static/js/main.b0186e89.js",
+    "static/media/1.png.jpg": "/react-codeace/static/media/1.png.d77996a2addbdbfe944e.jpg",
+    "static/media/hindu_.webp": "/react-codeace/static/media/hindu_.814a9598e4ce756e96aa.webp",
+    "static/media/logo.jpg": "/react-codeace/static/media/logo.f01761dbef44b950f0c9.jpg",
+    "index.html": "/react-codeace/index.html",
+    "main.b673aa94.css.map": "/react-codeace/static/css/main.b673aa94.css.map",
+    "main.b0186e89.js.map": "/react-codeace/static/js/main.b0186e89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b673aa94.css",
+    "static/js/main.b0186e89.js"
+  ]
+}
