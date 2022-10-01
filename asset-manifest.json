@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/react-codeace/static/css/main.b673aa94.css",
-    "main.js": "/react-codeace/static/js/main.b0186e89.js",
-    "static/media/1.png.jpg": "/react-codeace/static/media/1.png.d77996a2addbdbfe944e.jpg",
+    "main.css": "/react-codeace/static/css/main.f1f4ae43.css",
+    "main.js": "/react-codeace/static/js/main.56cf7bf8.js",
+    "static/media/007-copy.webp": "/react-codeace/static/media/007-copy.35695c164e567d4f3760.webp",
+    "static/media/003-copy-1.webp": "/react-codeace/static/media/003-copy-1.46f0552f069e1d825d84.webp",
+    "static/media/006-copy-2.webp": "/react-codeace/static/media/006-copy-2.9b385ef7d27629b079f8.webp",
+    "static/media/001-1.webp": "/react-codeace/static/media/001-1.3b21f6c26852deba6cc7.webp",
+    "static/media/banner-scaled.webp": "/react-codeace/static/media/banner-scaled.a42367cbde4fc50e5482.webp",
     "static/media/hindu_.webp": "/react-codeace/static/media/hindu_.814a9598e4ce756e96aa.webp",
     "static/media/logo.jpg": "/react-codeace/static/media/logo.f01761dbef44b950f0c9.jpg",
+    "static/media/002-3.webp": "/react-codeace/static/media/002-3.aea1b1b5d6c82e7a2fab.webp",
     "index.html": "/react-codeace/index.html",
-    "main.b673aa94.css.map": "/react-codeace/static/css/main.b673aa94.css.map",
-    "main.b0186e89.js.map": "/react-codeace/static/js/main.b0186e89.js.map"
+    "main.f1f4ae43.css.map": "/react-codeace/static/css/main.f1f4ae43.css.map",
+    "main.56cf7bf8.js.map": "/react-codeace/static/js/main.56cf7bf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b673aa94.css",
-    "static/js/main.b0186e89.js"
+    "static/css/main.f1f4ae43.css",
+    "static/js/main.56cf7bf8.js"
   ]
 }
