@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/react-codeace/static/css/main.f1f4ae43.css",
-    "main.js": "/react-codeace/static/js/main.56cf7bf8.js",
+    "main.css": "/react-codeace/static/css/main.d09e406c.css",
+    "main.js": "/react-codeace/static/js/main.f691a8a0.js",
+    "static/media/codeace.mp4": "/react-codeace/static/media/codeace.d36b5fd670e95cb44333.mp4",
     "static/media/007-copy.webp": "/react-codeace/static/media/007-copy.35695c164e567d4f3760.webp",
     "static/media/003-copy-1.webp": "/react-codeace/static/media/003-copy-1.46f0552f069e1d825d84.webp",
     "static/media/006-copy-2.webp": "/react-codeace/static/media/006-copy-2.9b385ef7d27629b079f8.webp",
     "static/media/001-1.webp": "/react-codeace/static/media/001-1.3b21f6c26852deba6cc7.webp",
     "static/media/banner-scaled.webp": "/react-codeace/static/media/banner-scaled.a42367cbde4fc50e5482.webp",
+    "static/media/webp": "/react-codeace/static/media/a2947abd22840ab76fb566237bceab39.1bc87760cc4083224bf3.webp",
     "static/media/hindu_.webp": "/react-codeace/static/media/hindu_.814a9598e4ce756e96aa.webp",
     "static/media/logo.jpg": "/react-codeace/static/media/logo.f01761dbef44b950f0c9.jpg",
     "static/media/002-3.webp": "/react-codeace/static/media/002-3.aea1b1b5d6c82e7a2fab.webp",
+    "static/media/logo-svg.svg": "/react-codeace/static/media/logo-svg.d1bad9c917cac121ddca9b4303dc899d.svg",
     "index.html": "/react-codeace/index.html",
-    "main.f1f4ae43.css.map": "/react-codeace/static/css/main.f1f4ae43.css.map",
-    "main.56cf7bf8.js.map": "/react-codeace/static/js/main.56cf7bf8.js.map"
+    "main.d09e406c.css.map": "/react-codeace/static/css/main.d09e406c.css.map",
+    "main.f691a8a0.js.map": "/react-codeace/static/js/main.f691a8a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1f4ae43.css",
-    "static/js/main.56cf7bf8.js"
+    "static/css/main.d09e406c.css",
+    "static/js/main.f691a8a0.js"
   ]
 }
